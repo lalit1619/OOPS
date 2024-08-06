@@ -6,7 +6,7 @@ class ABC
     public:
     ABC()
     {
-        a=10;
+        a=10;  
     }
     void display()
     {
