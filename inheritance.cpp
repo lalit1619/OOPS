@@ -42,10 +42,10 @@ class def : public Abc
 };
 int main ()
 {
-    int f;
+    //int f;
     def d;
     d.setA(10);
-   cout<<"the value of A is "<<d.getA()<<endl;
+   cout<<"the value of A is"<<d.getA()<<endl;
    d.setB(20);
    d.setC(30);
 cout<<"the value of B is "<<d.getB()<<endl;
